@@ -1,0 +1,4 @@
+https://github.com/google/googletest
+
+This gtest code was copied from the master commit here:
+https://github.com/google/googletest/commit/d128fc8252d53baad6ea456fa08cbf9028d255f4
